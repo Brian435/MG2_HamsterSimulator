@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 549729909395bbc459105e83403c9d44
+  - enabled: 1
+    path: Assets/Scenes/Juego de Hamster.unity
+    guid: 85d42d5afd8d48946b9a6a353946a525
   m_configObjects: {}
